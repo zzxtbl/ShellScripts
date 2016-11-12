@@ -1,6 +1,6 @@
 #!/bin/bash
-#lave的服务上
-#再次运行master的服务器
+#先执行安装Slave的服务器
+#再次运行安装master的服务器
 #
 #install mysql if 
 MYSQL_SOFT="mysql mysql-server mysql-devel php-mysql"
